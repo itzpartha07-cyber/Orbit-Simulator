@@ -1,0 +1,10 @@
+# Install with:
+# pip install -r requirements.txt
+
+numpy
+matplotlib
+pygame
+plotly
+streamlit
+astropy
+poliastro
