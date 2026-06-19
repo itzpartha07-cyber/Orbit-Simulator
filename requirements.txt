@@ -8,3 +8,5 @@ plotly
 streamlit
 astropy
 poliastro
+
+These are the libraries to use
